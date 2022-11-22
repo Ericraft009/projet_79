@@ -19,9 +19,9 @@ function addItem(){
 
     var htmldata;
     
-    var imgtags='<img id="im1" src="images/pizzaImg.png"/>"
+    var imgtags='<img id="im1" src="images/pizzaImg.png"/>'
     
-    var item-document.getElementById("addItem").value; menuListArray.sort();
+    var item=document.getElementById("addItem").value; menuListArray.sort();
     
     htmldata=""
     
@@ -34,12 +34,11 @@ function addItem(){
     }
     
 
-}
 
 function addTop(){
 
     var item=document.getElementById("addItem").value; 
     menuListArray.push(item); 
-    
+
     addItem(); 
 }
