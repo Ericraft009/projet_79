@@ -1,5 +1,5 @@
 menuListArray = ["Pizza Vegetariana",
-                    "Pizza de Frago",
+                    "Pizza de Frango",
                     "Pizza Portuguesa",
                     "Pizza Quatro Queijos",
                     "Pizza de Calabresa",
